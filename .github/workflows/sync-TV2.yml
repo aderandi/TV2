@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Ambil isi terbaru dari SUMBER
-        run: curl -sL "https://pastebin.com/raw/KLPzYV4J" -o TV2.m3u
+        run: curl -sL "https://pastefy.app/zWOi5Sz4/raw" -o TV2.m3u
 
       - name: Commit kalau ada perubahan
         run: |
