@@ -1,4 +1,4 @@
-name: Sync dari Pastebin
+name: Sync dari SUMBER
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Ambil isi terbaru dari Pastebin
+      - name: Ambil isi terbaru dari SUMBER
         run: curl -sL "https://pastebin.com/raw/KLPzYV4J" -o TV2.m3u
 
       - name: Commit kalau ada perubahan
@@ -22,5 +22,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add TV2.m3u
-          git diff --staged --quiet || git commit -m "Auto sync dari Pastebin"
+          git diff --staged --quiet || git commit -m "Auto sync dari SUMBER"
           git push
