@@ -104,7 +104,7 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiazdiRS8wSU1hR1NtS1U5dElqMmJMQSIsImtpZCI6IlkwU29KeWdKSkY0L3Fka21DWlVvd3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sadashvmx/Animax.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="284",Celestial Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
