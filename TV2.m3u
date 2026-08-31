@@ -1,1144 +1,2138 @@
 #EXTM3U
+#EXTINF:-1 group-title="All Country" tvg-id="1221",Asean Futsal Championship [CH1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiZnVsUWF4TklCSkhYbTNIQVlxdFRaZyIsImtpZCI6IlRUZ0dDL1FiUENuZkRzbFE3T2ExMmcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 group-title="OTHER",Indosiar Digital TV
+#EXTINF:-1 group-title="United Arab Emirates (the)" tvg-id="678",Abu Dhabi TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/master.mpd
+
+#EXTINF:-1 group-title="United Arab Emirates (the)" tvg-id="677",Al Emarat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/DASH/master.mpd
+
+#EXTINF:-1 group-title="United Arab Emirates (the)" tvg-id="679",Baynounah
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/DASH/master.mpd
+
+#EXTINF:-1 group-title="United Arab Emirates (the)" tvg-id="58",DubaiTV
+http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="298",Adesso TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="299",Anime TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="300",Band Minas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="304",Canal 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="310",Canal do Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="305",Canal Educação
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://canaleducacao-stream.ebc.com.br/index.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="306",Canal Gov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://canalgov-stream.ebc.com.br/index.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="307",Canal Libras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="308",Canal Ricos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="301",Canal Rural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://168.205.87.198:8555/live/michele/123456/166.ts?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="309",Canal Saúde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="311",Central TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="312",Chroma TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="302",COM Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="303",CWB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="314",Demais TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="313",Elemental Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="315",ElyTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="316",Fala Litoral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="317",ISTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="319",Lavras CE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="321",Master Show TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="320",MKK Web TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="322",NDTV Criciuma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://caikron.com.br:19360/criciuma/criciuma.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="323",Nova Era TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="324",Nova TV Agrotour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="325",Novo Tempo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="328",Pandamax Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="329",Perú Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="330",RDC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="331",RecordTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="332",Rede Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="333",Rede Mais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="334",Rede Meio Norte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://streaming.jornalmn.com.br/live/tvmn.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="335",Rede NGT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://isaocorp.cloudecast.com/ngt/index.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="336",Rede QDM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="337",Rede SPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="338",Rede Sul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="339",Rede UTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="343",Santa Cecilia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="340",SBT Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="397",SÉRIES CLÁSSICAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://168.205.87.198:8555/live/michele/123456/160.ts?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="396",Sertão TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="341",SIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="342",STZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="398",TCM 10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://live.tcm10.com.br/tcm10hd/stream.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="431",Terra Viva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="400",TV A7 Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="399",TV A Folha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="401",TV Aldeia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="402",TV Boqueirão
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="403",TV Brasil Oeste
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="406",TV Caravelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="409",TV Cidade de Petrópolis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="407",TV Cidade Verde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://list.iptvcat.com/my_list/s/5488049dc85ac576c0b487ec873203ec.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="410",TV Cinec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="422",TV Clube
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="404",TV CN Agitos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="405",TV COM Santos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="421",TV Cordeiro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="420",TV Difusora São Luis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="419",TV Educativa de Porto Alegre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="418",TV Empire Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="417",TV Guaraparí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="430",TVídeoNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="416",TV Japi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="415",TV Liberdade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="414",TV Mais Maricá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="413",TV Marajoara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="412",TV Metropolitana Rio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="429",TVNBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="423",TV Paraná Turismo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://200.189.113.201/hls/tve.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="424",TV Passo Fundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="425",TV Rio Preto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="426",TV Sandegi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="427",TV Sim Cachoeiro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="428",TV Thathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8?
+
+#EXTINF:-1 group-title="Brazil" tvg-id="701",VIVAX TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 group-title="France" tvg-id="161",20 Minutes TV
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="162",Africa24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="163",Cherie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="165",France 2
+http://livetv.ktv.zone/104/play.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="166",France 3
+http://livetv.ktv.zone/105/play.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="168",NRJ12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="540",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="164",TF1
+http://livetv.ktv.zone/3/play.m3u8?
+
+#EXTINF:-1 group-title="France" tvg-id="167",TMC
+http://livetv.ktv.zone/12/play.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="619",360 TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="621",BEN Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="623",CBS tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="622",Channel S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="627",Eman Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="626",EUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://johnnycarson-zype.amagi.tv/playlistR288p.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="703",FOX News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://mhdmax.com/
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="628",Hala London
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="625",iLol Funny
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---&
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="624",Samsung Wild Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8?
+
+#EXTINF:-1 group-title="United Kingdom of Great Britain and Northern Ireland (the)" tvg-id="620",Sky News Arabia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://stream.skynewsarabia.com/hls/sna_720.m3u8?
+
+#EXTINF:-1 group-title="Indonesia" tvg-id="1053",Indosiar Digital TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 http://vipgsiv.top:8080/VIP01370172667773999/2eae085d4ba9/34327
 
-#EXTINF:-1 group-title="OTHER",mOji Digital TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="1111",mOji Digital TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 http://opplex.tv:8080/3116580700/0700/350997
 
-#EXTINF:-1 group-title="OTHER",SCTV Digital TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="1106",SCTV Digital TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",ANTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="16",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="OTHER",G.T.V
+#EXTINF:-1 group-title="Indonesia" tvg-id="455",G.T.V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNkMycWZIdjdBOW1USjBZLzI5TnpOZyIsImtpZCI6ImlQYkh5OWVUTjB5MThTMStKdHpXT3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="OTHER",Indosiar
+#EXTINF:-1 group-title="Indonesia" tvg-id="666",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #EXTVLCOPT:http-referrer=https://vidio.com/
 https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8
 
-#EXTINF:-1 group-title="OTHER",i.N.E.W.S
+#EXTINF:-1 group-title="Indonesia" tvg-id="454",i.N.E.W.S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoibUE1VTFuSC93ckwwejFUblhLNEt3ZyIsImtpZCI6Im94ejFFMmVKVVV0K0Vybk1tVEI4aEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="OTHER",KompasTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="18",KompasTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiYVZ6NWlXR0N4UzhjT2lXQ0RuZDQ5USIsImtpZCI6IlNUL1JEbUNkMENycGVXVDBPT2ZsTUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 group-title="OTHER",MetroTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="14",MetroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiYXZNWitOZ2pVZmpEc1l5YXZmM3ZUUSIsImtpZCI6IlJKZEhQRnVYaGxYT1l0NTRjK0JCZEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 group-title="OTHER",MNCTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="171",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiK0YwOXpUaVlFMmlyUGFXWDZYNjl6QSIsImtpZCI6ImdvNEt1cGdsdzFScUtESGt3TU52ZncifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="OTHER",mOji
+#EXTINF:-1 group-title="Indonesia" tvg-id="950",mOji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiVFZHcUF3U3ZtTVJKL2V3VlNLR1orUSIsImtpZCI6IkJTaGg2KzJyUnpDSjBPZElEUXhiWXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 group-title="OTHER",R.C.T.I
+#EXTINF:-1 group-title="Indonesia" tvg-id="172",R.C.T.I
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMjhLTXRjWkNZSUQ1aEtXMjFEYTdNQSIsImtpZCI6Im02UGhVKytKVnRiaXNHaFB6M1QxancifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="OTHER",SCTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="871",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv-avc1_1200000=4-mp4a_96000=2.m3u8
 
-#EXTINF:-1 group-title="OTHER",Trans7
+#EXTINF:-1 group-title="Indonesia" tvg-id="11",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="OTHER",TransTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="13",TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://www.transtv.co.id/
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
-#EXTINF:-1 group-title="OTHER",Animax HD
+#EXTINF:-1 group-title="Indonesia" tvg-id="390",Animax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiazdiRS8wSU1hR1NtS1U5dElqMmJMQSIsImtpZCI6IlkwU29KeWdKSkY0L3Fka21DWlVvd3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 group-title="OTHER",Celestial Classic
+#EXTINF:-1 group-title="Indonesia" tvg-id="284",Celestial Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiYVZnM2NRblRSV0d0SUdSVEdjN0dMQSIsImtpZCI6IkV0cGhsRGl6ZEkyaUJoUWlGdENVT3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 group-title="OTHER",Celestial Movies
+#EXTINF:-1 group-title="Indonesia" tvg-id="795",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiZ0twRTJaakh3TXdpSEpiU1p6RCttdyIsImtpZCI6IkU2N0xKcTd1SXJ5R2tnQkY4aTBUVFEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 group-title="OTHER",Cinemachi
+#EXTINF:-1 group-title="Indonesia" tvg-id="1020",Cinemachi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiQ3N3V3ZZU1NGSW4yZTYwWjVBbWNyZyIsImtpZCI6Ijd1b01LWWJwR2hQcXpWa0swZXYrUXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 group-title="OTHER",Cinemachi Action
+#EXTINF:-1 group-title="Indonesia" tvg-id="1019",Cinemachi Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMklwTDNXZjRuTkllc0hUSUhlRzVsQSIsImtpZCI6Iis2UlRKZUxOZzFXWEx0NUpnZlE3S2cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 group-title="OTHER",Cinemachi Max
+#EXTINF:-1 group-title="Indonesia" tvg-id="1022",Cinemachi Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiL2tIcHZMcmxMNTBqTkFmM1NJdktYdyIsImtpZCI6ImJDVnZjSU1HUitTOTlsVFlibkVPMVEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 group-title="OTHER",Cinemachi Xtra
+#EXTINF:-1 group-title="Indonesia" tvg-id="1021",Cinemachi Xtra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiVHBlcVpDS3liL3MzSmtmYjBLZG9QQSIsImtpZCI6InRrN3VZMkN4R05EWkF5bk1MSjVNWUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 group-title="OTHER",Cinemax
+#EXTINF:-1 group-title="Indonesia" tvg-id="182",Cinemax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",CNBC
+#EXTINF:-1 group-title="Indonesia" tvg-id="27",CNBC
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 group-title="OTHER",CNN
+#EXTINF:-1 group-title="Indonesia" tvg-id="26",CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 group-title="OTHER",Crime Investigation
+#EXTINF:-1 group-title="Indonesia" tvg-id="1083",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiZkFhTjJaeUg0S3NlL0dOYnQzcmN0QSIsImtpZCI6IjNHRlg3Y2dQb1Y1cmJ5UG1sZFJoNUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 group-title="OTHER",Discovery Channel
+#EXTINF:-1 group-title="Indonesia" tvg-id="1157",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 https://github.com/wayme14/wai/raw/main/saus/DiscoveryChannel.m3u8
 
-#EXTINF:-1 group-title="OTHER",Food Travel
+#EXTINF:-1 group-title="Indonesia" tvg-id="394",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMWVOY0R6bkhhdDhraFQxK29ZeHg1dyIsImtpZCI6IlY5S3NraERQdktOWmJNWjVvQnlMS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://cempedak-cdn-fly.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO
+#EXTINF:-1 group-title="Indonesia" tvg-id="956",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO Family
+#EXTINF:-1 group-title="Indonesia" tvg-id="955",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO Hits
+#EXTINF:-1 group-title="Indonesia" tvg-id="179",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO Signature
+#EXTINF:-1 group-title="Indonesia" tvg-id="958",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HITS Movies
+#EXTINF:-1 group-title="Indonesia" tvg-id="289",HITS Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoia0M1Mk5JSU1KcWovTnZOd2p3R1IxQSIsImtpZCI6IlhaYUVzWE4rTzJpQUcwei9jaVhVdXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 group-title="OTHER",IMC Premium
+#EXTINF:-1 group-title="Indonesia" tvg-id="463",IMC Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoic1BQZUFHMXVNZWxucGJ4QnZnaHVaQSIsImtpZCI6IkdsVWVNTytJcGFFaDNPcHFkS091NXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 group-title="OTHER",Love Nature V+
+#EXTINF:-1 group-title="Indonesia" tvg-id="1082",Love Nature V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiVHBqclNTZVVHLzlSNmxKdElqK2hiUSIsImtpZCI6Ind3WnVxZ21FV0k5NDBTM050MTc0aXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
 
-#EXTINF:-1 group-title="OTHER",MNC Entertainment
+#EXTINF:-1 group-title="Indonesia" tvg-id="725",MNC Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiTnE4NjJ6NThUdDJTaHVkQkw4WDFsZyIsImtpZCI6IjZYR0h4Y2VYaXRuOFNKUTk5KzJRUlEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 group-title="OTHER",MNC Infotainment
+#EXTINF:-1 group-title="Indonesia" tvg-id="379",MNC Infotainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoieTJnamtkd1lNTkxPeU1xZFRPYUJ6QSIsImtpZCI6Im9YdTdQWlc2SXZENmFBdTZZSk5BOWcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:-1 group-title="OTHER",MNC News
+#EXTINF:-1 group-title="Indonesia" tvg-id="986",MNC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiQ3RjMTV3Zmh4NXZGVU8ra255Nmt2USIsImtpZCI6IkpzdytNME9GalRtR01pOFc0UXRZSXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SindoNews/sa_dash_vmx/SindoNews.mpd
 
-#EXTINF:-1 group-title="OTHER",Music TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="724",Music TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiUURuV0IvaVBHeDluZmt2cmJ1Wm1OdyIsImtpZCI6IkMrcUlxNWN1Qm5ZS0JIRXN4Q1BZUVEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="OTHER",Muslim TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="392",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiTTB6ZUIvYnI0SkxBcmdVaFdSMXp6dyIsImtpZCI6Ijd2b2NOSys2Y3ZqK2tDc0dGakpTancifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 group-title="OTHER",MyCinema
+#EXTINF:-1 group-title="Indonesia" tvg-id="380",MyCinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoicnJ0K2h0aWpOdG1wUFQzWXBCRlR6dyIsImtpZCI6IlF4RHR1TG4vNTVxN1FMcksrbmVPd3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 group-title="OTHER",My Family Channel
+#EXTINF:-1 group-title="Indonesia" tvg-id="382",My Family Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoicnJ0K2h0aWpOdG1wUFQzWXBCRlR6dyIsImtpZCI6IlF4RHR1TG4vNTVxN1FMcksrbmVPd3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 group-title="OTHER",NET.tv
+#EXTINF:-1 group-title="Indonesia" tvg-id="15",NET.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 group-title="OTHER",Quran TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="393",Quran TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiZlFYN0gvZHdYQjVGTC9maHVFR2h1QSIsImtpZCI6IlovNDZ3OG9SSEp2ZGJvU0FDUjNCUEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 group-title="OTHER",Rock Action
+#EXTINF:-1 group-title="Indonesia" tvg-id="95",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMHFxc2FFV3pOaWZOemhKeS9xeGF6QSIsImtpZCI6InVjRWorL1dINWxKTEp3YTlsZ3gvWncifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
-#EXTINF:-1 group-title="OTHER",Thrill.TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="376",Thrill.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoibERFRkQzWVBhU3Y5T1d1OWhNdFJZUSIsImtpZCI6IkJ1ZnBYOXN3Q0cwa0VSOHdESjJSOFEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 group-title="OTHER",tVN Premium
+#EXTINF:-1 group-title="Indonesia" tvg-id="286",tVN Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiSUo4RHhTVzd2Si9ZWlNxbnFjeGNzQSIsImtpZCI6ImRDRXgyOHRRZkRGUUxyWUxNcjVydUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 group-title="OTHER",tvOne
+#EXTINF:-1 group-title="Indonesia" tvg-id="12",tvOne
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 group-title="OTHER",Zee Bioskop
+#EXTINF:-1 group-title="Indonesia" tvg-id="797",Zee Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidVN0cUtycFNLOW03TFFmUEpCNXptQSIsImtpZCI6Im5uMzNCVEFBYSs4R2N5Zk8vZWdzRGcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 group-title="OTHER",ALJAZEERA Eng
+#EXTINF:-1 group-title="Indonesia" tvg-id="50",ALJAZEERA Eng
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="OTHER",ANIPLUS Asia
+#EXTINF:-1 group-title="Indonesia" tvg-id="824",ANIPLUS Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
-#EXTINF:-1 group-title="OTHER",Bandung TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="156",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 group-title="OTHER",Banten TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="157",Banten TV
 http://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",BeritaSatu
+#EXTINF:-1 group-title="Indonesia" tvg-id="28",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 group-title="OTHER",Berita Satu World HD
+#EXTINF:-1 group-title="Indonesia" tvg-id="29",Berita Satu World HD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 group-title="OTHER",JakTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="23",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiOTZVQ1lwa2NwOVVGL09GWEtuOE1LZyIsImtpZCI6Ijhza0lmbFF5eml3dlN1amgvWGV1VEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 group-title="OTHER",JTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="24",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoick56UXRsQVU1SktjWXBZWEc5L3JyUSIsImtpZCI6IkVPSUQ5bFVCUzEwWXNNaGFiSExJQ1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 group-title="OTHER",KIX Asia Movie
+#EXTINF:-1 group-title="Indonesia" tvg-id="43",KIX Asia Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiN3RuN0MwNGxUcEVFNzVqb3B3TlRodyIsImtpZCI6Ii9uWWVqNndVUFVCUkRuQ0NYYTBMSUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 group-title="OTHER",MyCinema Asia
+#EXTINF:-1 group-title="Indonesia" tvg-id="381",MyCinema Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoicnJ0K2h0aWpOdG1wUFQzWXBCRlR6dyIsImtpZCI6IlF4RHR1TG4vNTVxN1FMcksrbmVPd3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
-#EXTINF:-1 group-title="OTHER",NHK World Premium
+#EXTINF:-1 group-title="Indonesia" tvg-id="364",NHK World Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiRUswWE9zY2ttOFFzZzVEQWtNb0o0dyIsImtpZCI6InBXMXFKMDZ3YzgzNVIxUzlELzR6TlEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 group-title="OTHER",Nusantara TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="30",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",RCTV (Radar Cirebon)
+#EXTINF:-1 group-title="Indonesia" tvg-id="158",RCTV (Radar Cirebon)
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",Rock Entertainment
+#EXTINF:-1 group-title="Indonesia" tvg-id="75",Rock Entertainment
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMWVOY0R6bkhhdDhraFQxK29ZeHg1dyIsImtpZCI6IlY5S3NraERQdktOWmJNWjVvQnlMS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 group-title="OTHER",Rodja.tv
+#EXTINF:-1 group-title="Indonesia" tvg-id="110",Rodja.tv
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 group-title="OTHER",RTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="21",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiWHowdkxCbENacTZhS0NFUGlYYkw0QSIsImtpZCI6Ik1EaE81VUpPcTByOS96VFhwWjRPK1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title="OTHER",SBS.tv
+#EXTINF:-1 group-title="Indonesia" tvg-id="86",SBS.tv
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",SEA Today
+#EXTINF:-1 group-title="Indonesia" tvg-id="492",SEA Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoicWxyeDgrMnpxOUVLYUxqMzU4Q3hyUSIsImtpZCI6IjM3ZHFRQXBxOEZPSUgzLy9GRWd6SXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:-1 group-title="OTHER",TV9 Nusantara
+#EXTINF:-1 group-title="Indonesia" tvg-id="155",TV9 Nusantara
 http://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",TV Kesehatan
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Indonesia" tvg-id="159",TV Kesehatan
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TVKU
+#EXTINF:-1 group-title="Indonesia" tvg-id="64",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="OTHER",UG.tv
+#EXTINF:-1 group-title="Indonesia" tvg-id="84",UG.tv
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 group-title="OTHER",WesalTV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Indonesia" tvg-id="160",WesalTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8?
 
-#EXTINF:-1 group-title="OTHER",Astro Awani
+#EXTINF:-1 group-title="Japan" tvg-id="1084",ABC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1085",Animax HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1086",BS Asahi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1087",BS Fuji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1088",BS Nippon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1089",BS Shochiku Tokyu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1090",BS TBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1091",BS TV Tokyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1092",Cartoon Network Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1094",Channel Ginga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1093",CNN-jp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&
+
+#EXTINF:-1 group-title="Japan" tvg-id="1095",Disney Channel JP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&
+
+#EXTINF:-1 group-title="Kids" tvg-id="1026",BabyTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiQXFBU2d2ZCszd1BwWk9jVCswUitrdyIsImtpZCI6Ikw4WXJvWXRFM09nb3BmdUtJVDF1V3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="1023",Cinemachi Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMFdHeDl6ZmlydWxRRVVsQWJJcStuZyIsImtpZCI6IjYrWVpDano3dnRUc05PVFp4Nk1PSGcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="1028",Dunia Anak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="115",EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8?
+
+#EXTINF:-1 group-title="Kids" tvg-id="650",Kids.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://www.mncvision.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiRWFjNnJTeDEzZk00aEFzSSs1RlprdyIsImtpZCI6IkZ6UU1RaU9rWjBzYmZhalkyZUVSZEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="707",Kids Zone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#EXTVLCOPT:http-referrer=https://mhdmax.com/
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="1027",MyKids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://www.mncvision.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiVDNCY3FUUzZQdlZSUCtwaGpVK1RqUSIsImtpZCI6Im90MkdUOGxabU8vVktYbmw5ekxnS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="704",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiVnFRT1dLelZtV1hvWlpSOTF4a1FqUSIsImtpZCI6ImVGQWtXWWlDM0hVV1VzNml2T1JMamcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="113",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="451",Arirang Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="114",EBS 1
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8?
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="116",EBS+ 1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="117",EBS+ 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="452",Gugbang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="170",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="119",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="120",NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8?
+
+#EXTINF:-1 group-title="Korea (the Republic of)" tvg-id="121",TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Movies" tvg-id="1134",A Legend (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+#EXTVLCOPT:http-referrer=https://streamsilk.com/
+https://ss11.silkanu.cc/data/8/66e8c18993d93/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="1122",Avatar (2009)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+http://abf.filmbluray.id/olmpsvd
+
+#EXTINF:-1 group-title="Movies" tvg-id="1118",Avatar: The Way of Water (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="1123",Back to The Future (1985)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+http://abf.filmbluray.id/k483jbp
+
+#EXTINF:-1 group-title="Movies" tvg-id="1121",Captain America : The First Avengers (2011)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://stream.hownetwork.xyz/xxx/captain-america-first-avenger-2011-bluray_X_e7c989c3/26/480.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="1114",How to Train Your Dragon (2010)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5jDj8VG1d6eJ1TOK041LriA6FXsOBC2KhWSAxw=m22
+
+#EXTINF:-1 group-title="Movies" tvg-id="1120",Iron Man (2008)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://stream.hownetwork.xyz/xxx/iron-man-2008-bluray_X_f95a8e5c/26/480.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="1145",Iron Man 2 (2010)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://stream.hownetwork.xyz/xxx/iron-man-2-2010-bluray_X_8362c7d8/26/480.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="1146",Iron Man 3 (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://stream.hownetwork.xyz/xxx/iron-man-3-2013-bluray_X_949313d3/26/480.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="1119",Spider-Man: No Way Home (2021)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://stream.hownetwork.xyz/xxx/spider-man-no-way-home-2021-bluray/11/480.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="1105",Titanic Disaster (1997)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://stream.hownetwork.xyz/xxx/titanic-1997-bluray/11/480.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="100",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 group-title="OTHER",Berita RTM
+#EXTINF:-1 group-title="Malaysia" tvg-id="101",Berita RTM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",Dunia Sinema
+#EXTINF:-1 group-title="Malaysia" tvg-id="183",Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 group-title="OTHER",Okey RTM
+#EXTINF:-1 group-title="Malaysia" tvg-id="102",Okey RTM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",tv1
+#EXTINF:-1 group-title="Malaysia" tvg-id="104",tv1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",tv2
+#EXTINF:-1 group-title="Malaysia" tvg-id="105",tv2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",tv6
+#EXTINF:-1 group-title="Malaysia" tvg-id="107",tv6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",tvIKIM
+#EXTINF:-1 group-title="Malaysia" tvg-id="108",tvIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",HBO Cinemax (sg)
+#EXTINF:-1 group-title="TVRI" tvg-id="605",TVRI Aceh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="591",TVRI Ambon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="593",TVRI Babel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="592",TVRI Bali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="594",TVRI Bengkulu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="589",TVRI DKI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="595",TVRI Gorontalo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="596",TVRI Jabar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="597",TVRI Jambi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="598",TVRI Jateng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="599",TVRI Jatim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="617",TVRI Jogja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="600",TVRI Kalbar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="601",TVRI Kalsel
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="602",TVRI Kalteng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="603",TVRI Kaltim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="604",TVRI Lampung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="17",TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="606",TVRI NTB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="607",TVRI NTT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="608",TVRI Papua
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="618",TVRI Papua barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="609",TVRI Riau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="610",TVRI Sulbar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="588",TVRI Sulsel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="611",TVRI Sulteng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="612",TVRI Sultra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="613",TVRI Sulut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="614",TVRI Sumbar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="615",TVRI Sumsel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="616",TVRI Sumut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 group-title="TVRI" tvg-id="590",TVRI World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="126",7tv
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="344",86 канал (Сургут)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://sitv.ru/hls/s861024.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="345",Brodilo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://brodilo.tv/channel.php?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="346",Fashion TV Teens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="347",First Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="348",RBK, RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="349",Salyam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="351",Sochi Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="353",TnBnkom FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="352",TNT EXCLUSIV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://89.28.25.122/hls/tnt_md.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="350",TV BRICS China
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="354",АРИС 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="355",Астрахань 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="356",Астрахань.Ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="357",Башкортостан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live.gtrk.tv/720/b24-720.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="358",Ветта 24 (Пермь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="359",Восток 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2&
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="360",Вот ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="361",Городской телеканал (Ярославль)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://www.gtk.tv/hls/gtyar.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="362",Губерния (Самара)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="363",ДИАЛОГИ О РЫБАЛКЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="432",Евразия (Орск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="433",К16 (Саров)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="434",Конный Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="435",Матур ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="436",Миллет
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live.trkmillet.ru/millet/index.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="438",Мир 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="437",Мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="439",Муз союз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="442",Надежда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="440",НВК Саха
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="441",НТМ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="444",Радио Говорит Москва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="446",радио Хит ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://hithd.camsh.orsk.ru/hls/hit.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="445",Радио Шансон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="443",РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="450",Хузур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="449",Шансон-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="448",Щелковское ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://stream0.tv41.ru/live.m3u8?
+
+#EXTINF:-1 group-title="Russian Federation (the)" tvg-id="447",Эхо TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="Singapore" tvg-id="533",HBO Cinemax (sg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiVU5PNTdFbmhWd1loMUZnaWtqWUg5dyIsImtpZCI6Ik1yd3U1b2FSUkxpTDdqdXI4Z0w0amcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO Family (sg)
+#EXTINF:-1 group-title="Singapore" tvg-id="531",HBO Family (sg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoicHNidnlyQUhiVmN1VnpMN1pGSFJuQSIsImtpZCI6Ik5qdFZHUk1TVFd1QUIweWlsYkpSS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO Hits (sg)
+#EXTINF:-1 group-title="Singapore" tvg-id="530",HBO Hits (sg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiRUhLeDVoSUd3NFdXQjVoUGh5NVVuQSIsImtpZCI6IlJ6K3IzQVdzVFp1VS9UVHpQM001VHcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO (sg)
+#EXTINF:-1 group-title="Singapore" tvg-id="529",HBO (sg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiT3Z0VG9tUTVPYzF4S1BwODdlMVRPZyIsImtpZCI6InBBZEhud2ROUTllWVI0d1NFdGxZZGcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",HBO Signature (sg)
+#EXTINF:-1 group-title="Singapore" tvg-id="532",HBO Signature (sg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidGsrSWZTU0F2SzZwa3NMd2dtUkpxUSIsImtpZCI6ImtFZ1BWeDlkUVFpUjE2M1hFRHdlaEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",Animax (sg)
+#EXTINF:-1 group-title="Singapore" tvg-id="534",Animax (sg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiTDFveG1iSnVtMms2NklHdmYvaGt6dyIsImtpZCI6IjdmR25GZDZYU0dPTjB2clhXa0dhOGcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",Channel 5
+#EXTINF:-1 group-title="Singapore" tvg-id="374",Channel 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiS014VFo5OW1iRVMrUTRMbVN2Wk5WdyIsImtpZCI6IllIdDlJbFpjUzhPNVgvYkRQT1pVSlEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",Channel 8
+#EXTINF:-1 group-title="Singapore" tvg-id="375",Channel 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiOUk2MmRUODlGM1RhYUNsd3lUenlZQSIsImtpZCI6IkpFajhWaHNNUWlDb0h4QUlseDB3aUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER",Mediacorp
+#EXTINF:-1 group-title="Singapore" tvg-id="706",Mediacorp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
 #EXTVLCOPT:http-referrer=https://mhdmax.com/
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
-#EXTINF:-1 group-title="OTHER",Zoo Moo Asia
+#EXTINF:-1 group-title="Singapore" tvg-id="150",Zoo Moo Asia
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",PPTV HD
+#EXTINF:-1 group-title="Sports TV" tvg-id="674",DA-ZN Formula1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidldJckRtRUNsZDQ3Qzh5NFVNeXFxZyIsImtpZCI6IkVHRytFdE1ESkhRbTdDWG9OcHNtUncifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="213",Arena 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="214",Arena 2 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="215",Arena 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="216",Arena Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="217",Arena Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="218",Arena Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="219",Arena Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="220",Arena Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="888",Arena Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1147",beIN Sports Arabic 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1148",beIN Sports Arabic 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1149",beIN Sports Arabic 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461009
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1150",beIN Sports Arabic 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462095
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1151",beIN Sports Arabic 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462096
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1152",beIN Sports Arabic 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462097
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1153",beIN Sports Arabic 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897667
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1154",beIN Sports Arabic 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897668
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1139",beIN Sports ID 1 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMWVOY0R6bkhhdDhraFQxK29ZeHg1dyIsImtpZCI6IlY5S3NraERQdktOWmJNWjVvQnlMS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="91",beIN Sports ID 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMWVOY0R6bkhhdDhraFQxK29ZeHg1dyIsImtpZCI6IlY5S3NraERQdktOWmJNWjVvQnlMS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="52",beIN Sports ID 3 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMWVOY0R6bkhhdDhraFQxK29ZeHg1dyIsImtpZCI6IlY5S3NraERQdktOWmJNWjVvQnlMS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1140",bein Sports ID 4 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMWVOY0R6bkhhdDhraFQxK29ZeHg1dyIsImtpZCI6IlY5S3NraERQdktOWmJNWjVvQnlMS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1141",bein Sports ID 5 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMWVOY0R6bkhhdDhraFQxK29ZeHg1dyIsImtpZCI6IlY5S3NraERQdktOWmJNWjVvQnlMS1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="194",DA-ZN ES1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidi9HYXNLVWM4VTZFZzRteFVwRS8wQSIsImtpZCI6IlJOMmMwM0N3aW9hT3JSRmY2RTdQM2cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="195",DA-ZN ES2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiOC9CaDN0bTNEb0ZnV1ExWUF1emFiUSIsImtpZCI6IkRxdGFQejQ3UzZYVUxVREtNTkYxY1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="745",DA-ZN ES3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiYTZnQVp6c2dkMndNaFFFdzFGNFpJQSIsImtpZCI6InV0anYvMmlNRGJzM0VlU25FVXdpb3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="746",DA-ZN ES4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiY2pXVHh3NHRURWhpZFVPWTZBRm8rQSIsImtpZCI6IjBuRUUxQ2ZrK0g1MXNaT1ZxZmg1YXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="478",ESPN-NL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoibWJpTm5ONGRpWWJleThXWVhhaHhodyIsImtpZCI6IlBwbWVPQ1U0TkxxbU9JSHFSUjhvT1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="479",ESPN-NL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoibWJpTm5ONGRpWWJleThXWVhhaHhodyIsImtpZCI6IlBwbWVPQ1U0TkxxbU9JSHFSUjhvT1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-fhd-avc/NL_000108_019561.mpd?p=starballtv
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="480",ESPN-NL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoibWJpTm5ONGRpWWJleThXWVhhaHhodyIsImtpZCI6IlBwbWVPQ1U0TkxxbU9JSHFSUjhvT1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/go-dash-fhd-avc/NL_000109_019464.mpd?p=starballtv
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="385",Sportstars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMTJuWnJpT0wzVUpQaTgzTnlhT0FIdyIsImtpZCI6IlV4eHRVT1BwK2JwbVJHOWlUMGtpaVEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="386",Sportstars 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiaEQ0aWlyRUo2YXBzU0NMdVN0QmRmUSIsImtpZCI6IlJmN0pIT0h4bTJzZk1kYWR6NnIyelEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="255",Sport.tv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://wax.emblazonn.com/live/v1/r0oTng7s3goL6ZvoRhk-HhUTSJ4XuahoSMd81cAL4ANncLLpytZJ7an0HOQsYBWk/master.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="186",SPOTV 1 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="187",SPOTV 2 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="226",SSC Extra 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiQThGK0tKRWZjU0lheThDeEg1QUVBUSIsImtpZCI6IjdMeWViK2F4UmUrMlpZKzF6M1FuK0EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="227",SSC Extra 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiendkUC9TWkd5Y0w0VVR0SCtsZThNQSIsImtpZCI6IlRZa2ttOVRLVHJ5ZWNFUXlaZmxRZlEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="228",SSC Extra 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMHdCdTVwNTNzbGs1Y282L01OTVlDZyIsImtpZCI6Im1NL1cvVWdTU1greVRjZGZkVVh5N2cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="221",SSC Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#EXTVLCOPT:http-referrer=https://ssc.tv/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiVlFjbjNreVc3eDdQK0hTUVZKTllEdyIsImtpZCI6IjJFd3lYemFCVHptNzVaQ0FKeXNRd3cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="222",SSC Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidGR6M0lhdFNLdmtxblR2d3ZWVzFsZyIsImtpZCI6Imk4L0ZVMW5pUzlldEhGVmdxVzNkUEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="223",SSC Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiWGhVRDh6bUxOUFVKbVRQKzJyaEg3dyIsImtpZCI6ImZlWGRDSzJBUWRXR3d2RnN6SlNRb1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="224",SSC Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidjRkVys3aG03aTFjY0J3aWlkMk40dyIsImtpZCI6IlhHY3ZhNFdwUmppSExRSVU5NEJ1MUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="225",SSC Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoicmNDTzRjSUtjMGx5cFZ5YTY3MFlpQSIsImtpZCI6InlJdFJLeGVyVDJ5d25yRC9TaEJXN1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="209",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiWTZ4bUxkNHhEUHRNeHZtME96UVpiUSIsImtpZCI6InJpYUVXOU13T0tuQWQwb0pnUUJ5bEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="210",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiR3F6Z1gxalk3ZStXbC8xU3l3bjBRUSIsImtpZCI6ImJSY0lzWVhHeE5lemRnQlNESHpKUEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="211",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiaHFIdGJwYktxNDZ4QUovbE1OTFBUdyIsImtpZCI6IlRwazZxTUh5bGZpNVRvNmViMjBML2cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="212",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoibHNYdmFVZVhNcTV6VDVZblNNR1hLUSIsImtpZCI6IjR4cGFnY3IvWFFmcUpCR2xjZnd1V1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="730",TNT Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiTnU1QTVZbEl5aFhqeXJxTlI3anpTdyIsImtpZCI6IllNRFp0QlIxNEIyMC83a2UxVmY3ekEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1164",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiME13Z2doTXJRd3JWcUx4UE1jbTNjZyIsImtpZCI6ImtiOHRnYm5oTndHc1pua1ZaQkVodUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="60",Abu Dhabi Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="61",Abu Dhabi Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="659",Arena Fight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiNUJ3NmIzVXlzdU9vS05sWUFTVEluUSIsImtpZCI6IndZdHFwem0rVEF0M1JnWDgrMTFyYUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1129",Bahrain Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1130",Bahrain Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="735",CCTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="719",CCTV5+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="198",DA-ZN LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiZXgrRjl1Z1FXVWM3RVV3V29seUNtZyIsImtpZCI6IlE5SERzbElIL3ppeUxNL2hmVEFqWncifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="109",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/media.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="96",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="97",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="241",Euro Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/216.ts
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="242",Euro Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1920.ts
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1131",Iraq Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1133",Kuwait Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#EXTVLCOPT:http-referrer=https://veda30wz.superargo77.cfd/
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="643",LaLiga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiREpKVmJLRkxsZk5ubVRjUTU4KzhsQSIsImtpZCI6ImJRaXlaYVpqbmpMYWZJZ05WSkhqMGcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1109",LFC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/30.ts
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="250",MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="653",Oman Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8?
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="763",PSJ.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#EXTVLCOPT:http-referrer=https://veda30wz.superargo77.cfd/
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8?
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="39",RedBull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1162",Setanta Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiTi8zdWkyN3ZYSllBSG94dnhIdjhDQSIsImtpZCI6ImlySXpKRUtGVG1Ld0FZN3NQdVdFaEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="503",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="502",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="501",True Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="59",TV Real Madrid
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="25",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 group-title="Sports TV" tvg-id="1110",Voli TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+http://103.160.205.142:9999/stream/channelid/593394479?profile=pass
+
+#EXTINF:-1 group-title="Thailand" tvg-id="1032",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",Thairath Sports
+#EXTINF:-1 group-title="Thailand" tvg-id="652",Thairath Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 https://edge2a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER",Adesso TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Anime TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Band Minas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal 38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal do Inter
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal Educação
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://canaleducacao-stream.ebc.com.br/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal Gov
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://canalgov-stream.ebc.com.br/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal Libras
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal Ricos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal Rural
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://168.205.87.198:8555/live/michele/123456/166.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Canal Saúde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Central TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Chroma TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",COM Brasil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",CWB TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Demais TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Elemental Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",ElyTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.srvsite.com/ely/ely/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Fala Litoral
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",ISTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Lavras CE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Master Show TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",MKK Web TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",NDTV Criciuma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://caikron.com.br:19360/criciuma/criciuma.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Nova Era TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Nova TV Agrotour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Novo Tempo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Pandamax Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Perú Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",RDC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",RecordTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede Brasil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede Mais
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede Meio Norte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://streaming.jornalmn.com.br/live/tvmn.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede NGT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://isaocorp.cloudecast.com/ngt/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede QDM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede SPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede Sul
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Rede UTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Santa Cecilia TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",SBT Interior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",SÉRIES CLÁSSICAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://168.205.87.198:8555/live/michele/123456/160.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Sertão TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",SIC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",STZ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TCM 10 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://live.tcm10.com.br/tcm10hd/stream.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Terra Viva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV A7 Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV A Folha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV Aldeia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="125",24tv
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Boqueirão
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV Brasil Oeste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV Caravelas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV Cidade de Petrópolis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV Cidade Verde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://list.iptvcat.com/my_list/s/5488049dc85ac576c0b487ec873203ec.m3u8
-
-#EXTINF:-1 group-title="OTHER",TV Cinec
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="128",agroTV
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Clube
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="127",akitTV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV CN Agitos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="129",Al Qanat 9
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV COM Santos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="130",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Cordeiro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="132",Angara TV
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Difusora São Luis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="136",beratTV
+https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Educativa de Porto Alegre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="139",Cekmekoy TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Empire Magazine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="145",DIM TV
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Guaraparí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="142",DiYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TVídeoNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="143",Diyar TV
+https://yayin30.haber100.com/live/diyartv/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Japi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="140",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Liberdade
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="141",DRT Denizli
+https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Mais Maricá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="147",Edessa TV
+https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Marajoara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="148",Grt.tv
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Metropolitana Rio
+#EXTINF:-1 group-title="Turkey" tvg-id="261",OCKO TV HITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8?checkedby:iptvcat.com
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TVNBN
+#EXTINF:-1 group-title="Turkey" tvg-id="260",Ogun TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?checkedby:iptvcat.com
+https://s01.vpis.io/ogun/ogun.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Paraná Turismo
+#EXTINF:-1 group-title="Turkey" tvg-id="259",Olay Turk Kayseri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://200.189.113.201/hls/tve.m3u8?checkedby:iptvcat.com
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Passo Fundo
+#EXTINF:-1 group-title="Turkey" tvg-id="264",On 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8?checkedby:iptvcat.com
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Rio Preto
+#EXTINF:-1 group-title="Turkey" tvg-id="263",On 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:iptvcat.com
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Sandegi
+#EXTINF:-1 group-title="Turkey" tvg-id="253",Persiana Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8?checkedby:iptvcat.com
+https://af.ayas.ir/hls2/persiana.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Sim Cachoeiro
+#EXTINF:-1 group-title="Turkey" tvg-id="266",Qaf TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8?checkedby:iptvcat.com
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TV Thathi
+#EXTINF:-1 group-title="Turkey" tvg-id="265",Tempo TV Turk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",VIVAX TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
-https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-
-#EXTINF:-1 group-title="OTHER",20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Africa24
-https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Cherie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",France 2
-http://livetv.ktv.zone/104/play.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",France 3
-http://livetv.ktv.zone/105/play.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",NRJ12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Sport En France
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TF1
-http://livetv.ktv.zone/3/play.m3u8?checkedby:iptvcat.com
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",TMC
-http://livetv.ktv.zone/12/play.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Turkey" tvg-id="124",TRT 1
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
-#EXTINF:-1 group-title="OTHER",360 TV HD
+#EXTINF:-1 group-title="Ukraine" tvg-id="558",CNL Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8?checkedby:iptvcat.com
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR=&
 
-#EXTINF:-1 group-title="OTHER",BEN Television
+#EXTINF:-1 group-title="Ukraine" tvg-id="559",CNN Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8?checkedby:iptvcat.com
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?
 
-#EXTINF:-1 group-title="OTHER",CBS tv
+#EXTINF:-1 group-title="Ukraine" tvg-id="560",Fashion TV PG16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8?
 
-#EXTINF:-1 group-title="OTHER",Channel S
+#EXTINF:-1 group-title="Ukraine" tvg-id="561",Houston Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8?checkedby:iptvcat.com
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",Eman Channel
+#EXTINF:-1 group-title="Ukraine" tvg-id="562",IT-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8?checkedby:iptvcat.com
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",EUA
+#EXTINF:-1 group-title="Ukraine" tvg-id="563",Lugansk 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://johnnycarson-zype.amagi.tv/playlistR288p.m3u8?checkedby:iptvcat.com
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8?
 
-#EXTINF:-1 group-title="OTHER",FOX News
+#EXTINF:-1 group-title="Ukraine" tvg-id="564",RTG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-#EXTVLCOPT:http-referrer=https://mhdmax.com/
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/841/index.m3u8?
 
-#EXTINF:-1 group-title="OTHER",Hala London
+#EXTINF:-1 group-title="Ukraine" tvg-id="565",Viasat Kino Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8?checkedby:iptvcat.com
+http://89.254.128.5:22280/viasat_kino_action/index.m3u8?
 
-#EXTINF:-1 group-title="OTHER",iLol Funny
+#EXTINF:-1 group-title="Ukraine" tvg-id="566",WCGtv Brandon Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---&checkedby:iptvcat.com
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8?
 
-#EXTINF:-1 group-title="OTHER",Samsung Wild Life
+#EXTINF:-1 group-title="Ukraine" tvg-id="567",Youtoo America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8?
 
-#EXTINF:-1 group-title="OTHER",Sky News Arabia
+#EXTINF:-1 group-title="Ukraine" tvg-id="569",Настоящее Время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",ABC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Animax HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",BS Asahi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",BS Fuji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",BS Nippon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",BS Shochiku Tokyu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",BS TBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",BS TV Tokyo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Cartoon Network Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Channel Ginga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",CNN-jp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Disney Channel JP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Arirang Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",EBS 1
-http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",EBS+ 1
-http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",EBS+ 2
-http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Gugbang TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",KBS World
-https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-
-#EXTINF:-1 group-title="OTHER",MBC
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="OTHER",NBS
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TVWorkNet
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",7tv
-https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",86 канал (Сургут)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Brodilo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://brodilo.tv/channel.php?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Fashion TV Teens
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",First Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://hz1.teleport.cc/HLS/HD.m3u8
-
-#EXTINF:-1 group-title="OTHER",RBK, RU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Salyam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Sochi Live HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TnBnkom FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TNT EXCLUSIV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://89.28.25.122/hls/tnt_md.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",TV BRICS China
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",АРИС 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Астрахань 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Астрахань.Ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Башкортостан 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live.gtrk.tv/720/b24-720.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Ветта 24 (Пермь)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Восток 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2&checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Вот ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Городской телеканал (Ярославль)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://www.gtk.tv/hls/gtyar.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Губерния (Самара)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",ДИАЛОГИ О РЫБАЛКЕ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Евразия (Орск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",К16 (Саров)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Конный Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Матур ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Миллет
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live.trkmillet.ru/millet/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Мир 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Мир HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Муз союз
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Надежда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",НВК Саха
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",НТМ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Радио Говорит Москва
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",радио Хит ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://hithd.camsh.orsk.ru/hls/hit.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Радио Шансон
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",РБК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Хузур ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Шансон-ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Щелковское ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://stream0.tv41.ru/live.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Эхо TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="OTHER",Abu Dhabi TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/master.mpd
-
-#EXTINF:-1 group-title="OTHER",Al Emarat
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/DASH/master.mpd
-
-#EXTINF:-1 group-title="OTHER",Baynounah
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/DASH/master.mpd
-
-#EXTINF:-1 group-title="OTHER",DubaiTV
-http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
+http://81.94.196.204/tsstreamer/CurrentTime_HD.ts?
+
+#EXTINF:-1 group-title="Ukraine" tvg-id="568",НТВ Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+http://stream02.vnet.am/HTB/mono.m3u8?
+
+#EXTINF:-1 group-title="Ukraine" tvg-id="570",РТР Планета Евро
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+https://player.smotrim.ru/iframe/stream/live_id/4941?
 
