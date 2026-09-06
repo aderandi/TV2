@@ -1,73 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Persib Bandung vs PSM Makassar" event-time="2026-09-06T19:00" event-duration="2",BRI Super League | 🔴 LIVE Persib Bandung vs PSM Makassar (19:00 WIB - 6 Sep)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com
-https://hd-stream.prohades.com/live/default-1854136.m3u8
-#EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" server="viet" event-name="Court 1" event-time="2026-09-06T12:15" event-duration="8",LI-NING China Masters 2026 | 🔴 LIVE Court 1 (12:15 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
-#EXTVLCOPT:http-origin=https://xlz.drovaxcontentdelivery.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=fddb9709cb7ac14efeeb9436cf13aa15&wsABSTime=1788714541
-#EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" server="HUB SPORTS 1 HD" event-name="Court 1" event-time="2026-09-06T12:15" event-duration="8",LI-NING China Masters 2026 | 🔴 LIVE Court 1 (12:15 WIB - 6 Sep)
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280827.m3u8
-#EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" event-name="Malaysia vs Laos" event-time="2026-09-06T19:00" event-duration="2",AFC U-20 Asian Cup | 🔴 LIVE Malaysia vs Laos (19:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel9.flv
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Madura United fc vs Persijap Jepara" event-time="2026-09-06T19:00" event-duration="2",BRI Super League | 🔴 LIVE Madura United fc vs Persijap Jepara (19:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=a63e9962da8038c838ea624b41df8e9b&wsABSTime=1788703917
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | ⏳ JADWAL Everton vs Manchester United (20:00 WIB - 6 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I5ySRsKZf-UNJTn6HR7nmibjK5asVMPg30FdLPW99JZ0NSKTigmGQCw&s=10" group-title="Events" server="TSN 5" event-name="Race - Formula 1 Pirelli Gran Premio D`Italia 2026" event-time="2026-09-06T20:00" event-duration="2",Formula 1 | ⏳ JADWAL Race - Formula 1 Pirelli Gran Premio D`Italia 2026 (20:00 WIB - 6 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="server 1" event-name="Frosinone Calcio vs Venezia" event-time="2026-09-06T20:00" event-duration="2",Seri A | ⏳ JADWAL Frosinone Calcio vs Venezia (20:00 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73912c0660cc814ef7d9033d87c45c16:1a212fd533e2660b7eae0a033d9a1813
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v9dbztdngq/out/v1/dd7dee75b1ee4c87921b409e3387a7e6/cenc.mpd
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="server 2" event-name="Frosinone Calcio vs Venezia" event-time="2026-09-06T20:00" event-duration="2",Seri A | ⏳ JADWAL Frosinone Calcio vs Venezia (20:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" event-name="Parma vs Monza" event-time="2026-09-06T20:00" event-duration="2",Seri A | ⏳ JADWAL Parma vs Monza (20:00 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="Events" event-name="Hamburger SV vs Mainz 05" event-time="2026-09-06T20:30" event-duration="2",BUNDESLIGA | ⏳ JADWAL Hamburger SV vs Mainz 05 (20:30 WIB - 6 Sep)
+#EXTINF:-1 tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="Events" event-name="Hamburger SV vs Mainz 05" event-time="2026-09-06T20:30" event-duration="2",BUNDESLIGA | 🔴 LIVE Hamburger SV vs Mainz 05 (20:30 WIB - 6 Sep)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" event-name="Valencia vs Barcelona" event-time="2026-09-06T21:15" event-duration="2",Laliga | ⏳ JADWAL Valencia vs Barcelona (21:15 WIB - 6 Sep)
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="beIN sport" event-name="Valencia vs Barcelona" event-time="2026-09-06T21:15" event-duration="2",Laliga | 🔴 LIVE Valencia vs Barcelona (21:15 WIB - 6 Sep)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:00" event-duration="2",Premier League | ⏳ JADWAL Arsenal vs Chelsea (22:00 WIB - 6 Sep)
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Prima Sport 1" event-name="Valencia vs Barcelona" event-time="2026-09-06T21:15" event-duration="2",Laliga | 🔴 LIVE Valencia vs Barcelona (21:15 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="PREMIERSPORTS 2" event-name="Valencia vs Barcelona" event-time="2026-09-06T21:15" event-duration="2",Laliga | 🔴 LIVE Valencia vs Barcelona (21:15 WIB - 6 Sep)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="fubo SPORTS 1" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | ⏳ JADWAL Arsenal vs Chelsea (22:30 WIB - 6 Sep)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="fubo SPORTS 2" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | ⏳ JADWAL Arsenal vs Chelsea (22:30 WIB - 6 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="skysport premier league HD" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | ⏳ JADWAL Arsenal vs Chelsea (22:30 WIB - 6 Sep)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="ARENA 1 PREMIUM" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | ⏳ JADWAL Arsenal vs Chelsea (22:30 WIB - 6 Sep)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/559019.m3u8
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="DAZN1 HD" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | ⏳ JADWAL Arsenal vs Chelsea (22:30 WIB - 6 Sep)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959373.m3u8
 #EXTINF:-1 tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="Events" event-name="Eintracht Frankfurt vs Augsburg" event-time="2026-09-06T22:30" event-duration="2",BUNDESLIGA | ⏳ JADWAL Eintracht Frankfurt vs Augsburg (22:30 WIB - 6 Sep)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
@@ -358,6 +328,13 @@ https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001788650164-0-0-
 #EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live2.domainkqt.cc/live/channel33.flv
+#EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" server="viet" event-name="Court 1" event-time="2026-09-06T12:15" event-duration="8",LI-NING China Masters 2026 | Court 1 (12:15 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
+#EXTVLCOPT:http-origin=https://xlz.drovaxcontentdelivery.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=fddb9709cb7ac14efeeb9436cf13aa15&wsABSTime=1788714541
+#EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" server="HUB SPORTS 1 HD" event-name="Court 1" event-time="2026-09-06T12:15" event-duration="8",LI-NING China Masters 2026 | Court 1 (12:15 WIB - 6 Sep)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280827.m3u8
 #EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" server="server 1" event-name="Java United FC vs Garudayaksa FC" event-time="2026-09-06T15:30" event-duration="2",BRI Super League | Java United FC vs Garudayaksa FC (15:30 WIB - 6 Sep)
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
@@ -396,8 +373,56 @@ https://live2.domainkqt.cc/live/channel33.flv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Persib Bandung vs PSM Makassar" event-time="2026-09-06T19:00" event-duration="2",BRI Super League | Persib Bandung vs PSM Makassar (19:00 WIB - 6 Sep)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://hd-stream.prohades.com/live/default-1854136.m3u8
+#EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" event-name="Malaysia vs Laos" event-time="2026-09-06T19:00" event-duration="2",AFC U-20 Asian Cup | Malaysia vs Laos (19:00 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
+#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live2.domainkqt.cc/live/channel9.flv
+#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Madura United fc vs Persijap Jepara" event-time="2026-09-06T19:00" event-duration="2",BRI Super League | Madura United fc vs Persijap Jepara (19:00 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
+#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=a63e9962da8038c838ea624b41df8e9b&wsABSTime=1788703917
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="fubo SPORTS" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="skysport premier league HD" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="ARENA 1 PREMIUM" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/559019.m3u8
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="DAZN1 HD" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959373.m3u8
+#EXTINF:-1 tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I5ySRsKZf-UNJTn6HR7nmibjK5asVMPg30FdLPW99JZ0NSKTigmGQCw&s=10" group-title="Events" server="TSN 5" event-name="Race - Formula 1 Pirelli Gran Premio D`Italia 2026" event-time="2026-09-06T20:00" event-duration="2",Formula 1 | Race - Formula 1 Pirelli Gran Premio D`Italia 2026 (20:00 WIB - 6 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I5ySRsKZf-UNJTn6HR7nmibjK5asVMPg30FdLPW99JZ0NSKTigmGQCw&s=10" group-title="Events" server="Bein Sport 1 ID" event-name="Race - Formula 1 Pirelli Gran Premio D`Italia 2026" event-time="2026-09-06T20:00" event-duration="2",Formula 1 | Race - Formula 1 Pirelli Gran Premio D`Italia 2026 (20:00 WIB - 6 Sep)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=125&key=bagihasillah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" event-name="Frosinone Calcio vs Venezia" event-time="2026-09-06T20:00" event-duration="2",Seri A | Frosinone Calcio vs Venezia (20:00 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" event-name="Parma vs Monza" event-time="2026-09-06T20:00" event-duration="2",Seri A | Parma vs Monza (20:00 WIB - 6 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="Indonesia" server="CNN" event-duration="4",CNN Indonesia
-https://transgroup.iontv.workers.dev/cnn.m3u8
+https://small-rice-8a61.iontv.workers.dev/cnn.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="Indonesia" server="CNN SD" event-duration="4",CNN Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -410,13 +435,8 @@ https://cdnjkt913.transvision.co.id:1003/live/master/108/4028c685651d7bcc01651f0
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=PDDOkUq33Sw
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="Indonesia" server="TEST" event-duration="4",CNN Indonesia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgBSnGbf0m39SzbXtlq1AXL_a03zdeVB7wcbyoZNf8jsbAUi9H_Ne7A2pnI5iPTI2wwYAYXvZuycI13TxvnqGNnb6KydEiPObKj-PEOqX7hmTQZ_B_WGCOpaEY5zjP3rFc2MBTaQ8a2QSFRJLtEkQ-_TIqN5oi8Ejzqq-6l5XsuAApxZZTJ1qwVT7IK4eq/s320/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="Indonesia" server="CNBC" event-duration="4",CNBC INDONESIA
-https://transgroup.iontv.workers.dev/cnbc.m3u8
+https://small-rice-8a61.iontv.workers.dev/cnbc.m3u8
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgBSnGbf0m39SzbXtlq1AXL_a03zdeVB7wcbyoZNf8jsbAUi9H_Ne7A2pnI5iPTI2wwYAYXvZuycI13TxvnqGNnb6KydEiPObKj-PEOqX7hmTQZ_B_WGCOpaEY5zjP3rFc2MBTaQ8a2QSFRJLtEkQ-_TIqN5oi8Ejzqq-6l5XsuAApxZZTJ1qwVT7IK4eq/s320/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="Indonesia" server="CNBC HD" event-duration="4",CNBC INDONESIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
@@ -490,15 +510,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7 HD" event-duration="4",TRANS 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7751486d473462613941317475747839:306d7a6a5167336c4e73696631516a64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7" event-duration="4",TRANS 7
-https://transgroup.iontv.workers.dev/trans7.m3u8
+https://small-rice-8a61.iontv.workers.dev/trans7.m3u8
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7 V+" event-duration="4",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=7&key=bagihasillah
@@ -513,7 +526,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVy2kw5H7uXbFzwTnHXa7brNkyCIYlwQBW_-PYmc3TxxfNHb_2CRqNU7RegwkYBn2l2NldgFQzZfY1NH9AjcOgporQ-zTLwYH8GQYGPhGZ0jqEd3Kw55akcUV7DJTVhnJB_egEF1m2cSU3269lqMWF5jQ0SfQPztvwbX7HdGiTFOqGbbhleFBuC2EanFm/s320/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Indonesia" server="TRANS TV" event-duration="4",TRANS TV
-https://transgroup.iontv.workers.dev/transtv.m3u8
+https://small-rice-8a61.iontv.workers.dev/transtv.m3u8
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVy2kw5H7uXbFzwTnHXa7brNkyCIYlwQBW_-PYmc3TxxfNHb_2CRqNU7RegwkYBn2l2NldgFQzZfY1NH9AjcOgporQ-zTLwYH8GQYGPhGZ0jqEd3Kw55akcUV7DJTVhnJB_egEF1m2cSU3269lqMWF5jQ0SfQPztvwbX7HdGiTFOqGbbhleFBuC2EanFm/s320/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Indonesia" server="TRANS TV V+" event-duration="4",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=6&key=bagihasillah
