@@ -1,14 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AVC Men's Volleyball Continental Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7PBziq0i02hwcN5tnVOKAsXaUV5fssgIJx8VnJhqMZg&s=10" group-title="Events" event-name="Qatar vs Chinese Taipei" event-time="2026-09-06T11:00" event-duration="2",AVC Men's Volleyball Continental Championship | ⏳ JADWAL Qatar vs Chinese Taipei (11:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
+#EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" server="viet" event-name="Court 1" event-time="2026-09-06T12:15" event-duration="8",LI-NING China Masters 2026 | 🔴 LIVE Court 1 (12:15 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
+#EXTVLCOPT:http-origin=https://xlz.drovaxcontentdelivery.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel33.flv
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Java United FC vs Garudayaksa FC" event-time="2026-09-06T15:30" event-duration="2",BRI Super League | ⏳ JADWAL Java United FC vs Garudayaksa FC (15:30 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel21.flv
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=fddb9709cb7ac14efeeb9436cf13aa15&wsABSTime=1788714541
+#EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" server="HUB SPORTS 1 HD" event-name="Court 1" event-time="2026-09-06T12:15" event-duration="8",LI-NING China Masters 2026 | 🔴 LIVE Court 1 (12:15 WIB - 6 Sep)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280827.m3u8
+#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" server="server 1" event-name="Java United FC vs Garudayaksa FC" event-time="2026-09-06T15:30" event-duration="2",BRI Super League | 🔴 LIVE Java United FC vs Garudayaksa FC (15:30 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854134.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=624f1249195af1603d5b58176a583c4e
+#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" server="server 2" event-name="Java United FC vs Garudayaksa FC" event-time="2026-09-06T15:30" event-duration="2",BRI Super League | 🔴 LIVE Java United FC vs Garudayaksa FC (15:30 WIB - 6 Sep)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
+https://live2.domainkqt.cc/live/channel21.m3u8
 #EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" event-name="Australia vs Indonesia" event-time="2026-09-06T16:00" event-duration="2",AFC U-20 Asian Cup | ⏳ JADWAL Australia vs Indonesia (16:00 WIB - 6 Sep)
 #EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
@@ -159,7 +165,7 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-name="Moto2 2026" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgnHyUYL03av7VFU7y8Tl4xggj8HzOLvVPV7vQWFjAvA-gqCJIoxW8SH2TzGzz78AKnl6rnaRMbe0r0vDWfdGEFQbovuKB06yeW90NHz-pVs1DVSouhXefvgqKItZyeSPRLvL_ISyY677lKnWKL75ZDuXBL5OhkT8YaQiF_mrPyxFvQ9dHaKalBk5e_Ehn0" group-title="Events" server="SPOTV 2 ID" event-name="Moto2 Practice: Michelin Grand Prix of Aragon" event-time="2026-08-28T20:00" event-duration="2",Moto2 2026 | Moto2 Practice: Michelin Grand Prix of Aragon (20:00 WIB - 28 Agu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
@@ -241,11 +247,6 @@ https://live2.domainkqt.cc/live/channel12.flv
 #EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live2.domainkqt.cc/live/channel19.flv
-#EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" event-name="Court 1" event-time="2026-09-05T16:00" event-duration="5",LI-NING China Masters 2026 | Court 1 (16:00 WIB - 5 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
-#EXTVLCOPT:http-origin=https://xlz.drovaxcontentdelivery.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=7a79015e2212639453232d0d4355b308&wsABSTime=1788617085
 #EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="TNT SPORT 1 HD" event-name="Newcastle United vs Bournemouth" event-time="2026-09-05T18:30" event-duration="2",Premier League | Newcastle United vs Bournemouth (18:30 WIB - 5 Sep)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
@@ -376,6 +377,11 @@ https://live2.domainkqt.cc/live/channel33.flv
 #EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001788650164-0-0-4262e4feec8c4750bd5fba4250df66a6
+#EXTINF:-1 tvg-name="AVC Men's Volleyball Continental Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7PBziq0i02hwcN5tnVOKAsXaUV5fssgIJx8VnJhqMZg&s=10" group-title="Events" event-name="Qatar vs Chinese Taipei" event-time="2026-09-06T11:00" event-duration="2",AVC Men's Volleyball Continental Championship | Qatar vs Chinese Taipei (11:00 WIB - 6 Sep)
+#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
+#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live2.domainkqt.cc/live/channel33.flv
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="Indonesia" server="CNN" event-duration="4",CNN Indonesia
 https://transgroup.iontv.workers.dev/cnn.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="Indonesia" server="CNN SD" event-duration="4",CNN Indonesia
@@ -401,7 +407,7 @@ https://transgroup.iontv.workers.dev/cnbc.m3u8
 https://cdnjkt913.transvision.co.id:1003/live/master/108/4028c68565fa79ce01665868040a343f/manifest.mpd
 #EXTINF:-1 tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjODYrdvOvpa1DhyphenhyphenZ9PcrVVip72bHmEOdISho7RksKZ7vCHt9hnqv0Cioox4LPgZ3PnlBJxz3CElXL5bV5VkNxm3KGSUNPqUt0OD6CPLBlDKST4Jj5PlNpaZg4RrVyxNQaY1-iShUPTQnnlLpsv_RGahFwLMKKowPZPu5p2ddV_tn7tfmW7WB-OUWXJnC8p/s1600/channel_83.png" group-title="Indonesia" server="Inews SD" event-duration="4",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=4&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=4&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
@@ -427,7 +433,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e82
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptCdH6nju6R21U0hAteOPyFYR_OPW3YV406m6chLLyvc7DHBw2EGBV7eIAmiAG1iXZSd2LfIyIdGCl7q-YJFvyS8RrGRDczddiOGZQopF3rUWloPaydBzOwtE5ao1f-WUAFhqg3LXMnieiLAzWGaUGbnwDiwHqdIqdQIj-kZIoTnP1Y6KoRrD8qDqP-3R/s320/15c10f90-4304-4410-a418-67891b5c185d.png" group-title="Indonesia" server="RCTI V+" event-duration="4",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=114&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=114&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
@@ -444,7 +450,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP8O94qhIy2T-kSZcHHM4vTgA8kHCuM53tJbFdoUnUPBX0oaK1Mh4jTa1U0urrrP9D7Xh13d9ZCRp_i6KSXVDWNOTWQZSBOWnBRQsMixfpOi83SOtj8yiDvpOjgXIDM5BjMsu8OiFKnrc2XG-MjzOxgPocabqrqD-lD16f5enlOD2A6mPDZEOfFGhez5TJ/s320/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="Indonesia" server="GTV V+" event-duration="4",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=3&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=3&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
@@ -461,7 +467,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopZkakZgqq78x__gXqSUCt9op6RJJEmXASfYhYGOJ4aNEmHhyQ0NgDA8_5rkmnfdMEPHnk1OCFsdxUmw8o635fjQ1gNxfP3aqqoC3Vb9TeyjvssezWB79ac_VjNN5bq0yIQPsOvoKxsDFk6J6TBGEBb9OEP2uaupeTNooqEgC4s6yTnpEeakkO4sk1nTE/s320/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="Indonesia" server="MNCTV V+" event-duration="4",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=2&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=2&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
@@ -476,7 +482,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0db
 https://transgroup.iontv.workers.dev/trans7.m3u8
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7 V+" event-duration="4",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=7&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=7&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
@@ -491,7 +497,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 https://transgroup.iontv.workers.dev/transtv.m3u8
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVy2kw5H7uXbFzwTnHXa7brNkyCIYlwQBW_-PYmc3TxxfNHb_2CRqNU7RegwkYBn2l2NldgFQzZfY1NH9AjcOgporQ-zTLwYH8GQYGPhGZ0jqEd3Kw55akcUV7DJTVhnJB_egEF1m2cSU3269lqMWF5jQ0SfQPztvwbX7HdGiTFOqGbbhleFBuC2EanFm/s320/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Indonesia" server="TRANS TV V+" event-duration="4",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=6&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=6&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
@@ -504,7 +510,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKsVxnuYTz8pswVymtFVhWKVpR5Mof7jvwZWfYYaGkD_z6yL0JV-Z9kUBZBRnLuPFk_DWW70BJPQZuEXl3o3slm2ufMHkRyCcudrNWOroDkiFMEfM9qVzCFDAg4HX9xZAneZlE7fmiHAbs2Cv3QeZpZ3PKixcvGnz9XfdR22KW0QdbTnJFUSoPFqrNjGky/s320/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="Indonesia" server="SCTV" event-duration="4",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=8&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=8&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
@@ -517,7 +523,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD9zm2HqT_T_BuN6TtVK08mrnPNssM6nk52OlKUNoQRfSw947pUKw3n3jdHDXvnb3prrbjSTEF8_oq8LNX-iDHVxSABFBToOzT3zAXQ0z2KGv2oMNb2prLQM7CvAsjQ-stz1ZaewH59DTksAhJlrn0OH-kO4np54S3BlMHV4rVbkMK7sBNSoBQXYnbx3K/s320/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="Indonesia" server="INDOSIAR" event-duration="4",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=9&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=9&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
@@ -527,7 +533,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-name="moji TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-KHgtWRC3U7RcddGKP6aZpqIswK4ftinKhA&s" group-title="Indonesia" server="moji HD" event-duration="4",moji TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=18&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=18&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
@@ -537,7 +543,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-name="tvOne" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghekcN2Kwja3ukJ30ICWOVTkIyl5XxnF1ySa6WshWHg0pEs5HOyx7ebADeYSxQvi1avR91DGH_FUzx7G0tfxcSzuS9vzImZvu7uByjmcGTHUtVpFwkUT7AXWSb0E7_mjMirpnvBM-u_NxfMQccOrrp3OVGNtf9Dn8EX1rnH9fsx_HYLXlyc8wX0BgS22br/s1600/download%20(9).jpg" group-title="Indonesia" server="tvOne SD" event-duration="4",tvOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=12&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=12&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
@@ -548,7 +554,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 https://www.youtube.com/watch?v=rQJoEpzKkNk
 #EXTINF:-1 tvg-name="antv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoqh56kQTiOg7dglGKyBkoHo1r99o2b144t-btcehi3LgdDdp-N-54A2P4iYjIfbPDPv97u8zmcmM7OFatET1WWvAyszHCvwJbNFWvebJkZBtKn_H2JUNF3z-f-qkl3Xcilx0duTpb_sfAze90GPPI4YZkr2LMbNsur7blSY2-giYgpltGAlbzirC6NnsW/s1600/channel_115.png" group-title="Indonesia" server="antv" event-duration="3",antv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=10&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=10&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
@@ -573,7 +579,7 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-327770703
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 #EXTINF:-1 tvg-name="METRO TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdOlSWfNehZXGm3NVQbSN0Hx9dsw0q0kAB7D645qI5yq5rftAe5ZCib17El2O5OATxXTj6YR2iB3DZobrhiSHyXaZNCBVgiMkWfQhRAzJAh4mBegCgxcKaVhojS5wNu4j9pzCV4ncAo5w-yHch4rKcanXGJpWktQNEatK1D6z4Z0eYS2NO2Llhe3ejz2y/s1600/download%20(6).jpg" group-title="Indonesia" server="METRO TV SD" event-duration="4",METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=14&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=14&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
@@ -598,7 +604,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 #EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIr6oGYQfa1OFiCkGAA-gVC_RXmcW-mLNkZhJ4ZdXE0Wxl-k7gde9Gwus&s=10" tvg-id="MNCNews.id" group-title="Indonesia" server="SINDO NEWS" event-duration="4",SINDO NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=5&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=5&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
@@ -632,7 +638,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVxYssGQgFVbYtamvuSrDR9Tnbb-8Ge9L0603D3t7xVS8d80mtNAnbSGDvMGvIII3BzhCUXkYUV4Nvo8D7mamPF3jRGgHf_wT6mifoboWuSzBaCH2OyXX8HFMap5oi70lHjc0gvowBkLYgybLeYgumcaq-7h24jqky2V6mfpY9VB3cikvjRbvfXwUMvHRn/s1600/images%20(7).jpg" group-title="Indonesia" server="TVRI SD" event-duration="4",TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=16&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=16&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
@@ -641,7 +647,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/ind
 https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiqmK4Gl4co4l1kuoKE1X7yrIvsRLWA_uXL4kohD3FhUsh5Kah1O_KFSFnLLLupyU5PrDr9pDf0k86MSJpOxXKQaNJYJvyTUNcl6E0FNo1eywz9mF7MxHURQwBdKW8okYVXkM_wx-UKyle2iOq_eIYrPPkczYBTGYiexPfJ2v76J0G7J22_tXcKnJUv-_WW" group-title="Indonesia" server="KOMPAS TV HD" event-duration="4",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=13&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=13&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
@@ -737,7 +743,7 @@ https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjYJkLE6vSX02yFM18EFfgJ962CRDsihqvIQQNvCOWGA&s" group-title="Indonesia" event-duration="4",TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=25&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=25&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
@@ -749,7 +755,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 #EXTINF:-1 tvg-name="SPOTV 1" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports" server="SPOTV 1 ID" event-time="0001-01-01T00:24" event-duration="4",SPOTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=77&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=77&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
@@ -761,7 +767,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports" server="SPOTV 2 ID" event-time="0001-01-01T05:57" event-duration="4",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
@@ -773,7 +779,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:-1 tvg-name="beIN Sport 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj44z5BJkAFZjM2sbLc08VtkDBWxvJGJZYchktwDVvLHrj5t4KyK6oNCl4tfFMmioZuQzwOBOs4gCYy-cfponjSaBL3k1HG4hX3qinaqhqo6iUkTwRylXw0q2HWze4CcBktHhr-Y6tKyQYKYPS6nEthinVVC38NNUNzJFVrN917dPbe8Eb2XO7PQpYX2P5r/s320/bein-sports-1-600x300.jpg" group-title="Sports" server="Bein Sport 1 ID" event-duration="4",beIN Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=125&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=125&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
@@ -782,20 +788,20 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 tvg-name="beIN Sport 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirPc8-8-RgzOFEQlXm2LK0FTIBHW1ffdXIpykMcg07npzzjZqRX2DU3D-O_n6NfUo8Ph6EXtQGYxqo9CMVjfyAP1NeQkTa89UDGDDrvyChJoLgmcXWQcKjsNT0Ud9o91W2ow148x9SWkdHlh5MBk287FZyw7tUCwkQ4K5AUjiRbnnWlCVuhMhF_NQWMpxx/s320/bein-sports-2-600x300.jpg" group-title="Sports" server="Bein Sport 2 ID" event-duration="4",beIN Sport 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=126&key=bagihasillah
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 tvg-name="beIN Sport 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirPc8-8-RgzOFEQlXm2LK0FTIBHW1ffdXIpykMcg07npzzjZqRX2DU3D-O_n6NfUo8Ph6EXtQGYxqo9CMVjfyAP1NeQkTa89UDGDDrvyChJoLgmcXWQcKjsNT0Ud9o91W2ow148x9SWkdHlh5MBk287FZyw7tUCwkQ4K5AUjiRbnnWlCVuhMhF_NQWMpxx/s320/bein-sports-2-600x300.jpg" group-title="Sports" server="Bein Sport 2 AU" event-duration="4",beIN Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-name="beIN Sport 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirPc8-8-RgzOFEQlXm2LK0FTIBHW1ffdXIpykMcg07npzzjZqRX2DU3D-O_n6NfUo8Ph6EXtQGYxqo9CMVjfyAP1NeQkTa89UDGDDrvyChJoLgmcXWQcKjsNT0Ud9o91W2ow148x9SWkdHlh5MBk287FZyw7tUCwkQ4K5AUjiRbnnWlCVuhMhF_NQWMpxx/s320/bein-sports-2-600x300.jpg" group-title="Sports" server="Bein Sport 2 ID" event-duration="4",beIN Sport 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=123&type=fitnah
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 tvg-name="beIN Sport 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRltLEGRhF2_OgyfpP0DNtR8UDef3R4sqzGfn05fCa5bqm6pK2srRhttKVpVXLBzeDIcwBKzwraVZ75BHFXGpQ8jbmOAiQnioSvnfUJj5wAXxmb6LQNwxybDZfSlkILkpFnZ7fYgsxVBfyZ7Nz_Kh9aEAt-gcFza2FcdrnKx9sZto1uKIP1tTQ7qMbzPUh/s320/bein-sports-3-600x300.jpg" group-title="Sports" server="Bein Sport 3 ID" event-duration="4",beIN Sport 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=127&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=127&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
@@ -808,25 +814,25 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-name="sportstar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixcByAdt3_2rxTLA8tJ2cXaGNV-k3UVqbtwDQ85AJaj1tjgWY8iK2umd-GOVZ_hMSQAnd4OwYLCxOdZdeeh_sFSLF6ugJInSdFdZxr-yW8_aDTGXeyjUMPxMZvqmCg-sRgJFfFoxyGnbZfYlcxIufc3DoWHYCv6GY7LCPSgfNN9ogdzS0CyKUsvZJRbMrA/s1600/images.png" group-title="Sports" event-duration="4",sportstar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=73&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=73&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 #EXTINF:-1 tvg-name="sportstar  2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiprnDumHS_oTJYNthEcG2RpJuk4O3xqMnknacxjxLPhTPmKWsYRoAgg86t7GPvs7fHJfVnqx0zkkWTEILKP0VCEiSd4KkcGBeEHAvQZzzDKicFewGMUqNb8onzu9OHkq2s3pAsNHPJVzAlTZKbcTkIS-NIBHHdtXsBU93b6-1W1w4AhYbiwOy5h9aL07U7" group-title="Sports" event-duration="4",sportstar  2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=74&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=74&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #EXTINF:-1 tvg-name="sportstar  3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjzYqNVxfCl2yGCYKkEsRSiv1v2y0Z36JtDkjsa8WBWu9M1ZMSlfMj-vM59821NppP58acDLxPeQkwrJmbpT30iKuuXCq65_2CRR9FzFLesd8bMheYBlpy6OKKftay6t2XyKJp7SDSshF_D3bLHMgTe7dGOqAFU1Hbq45j6rEPMHYqSXwSoF7a0H3Aw-EfO" group-title="Sports" event-duration="4",sportstar  3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=75&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=75&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9UUA52bFn2_DESu_01QlOhaOqX3yma4QA-rkbjltG7NsfaUYz-Ku2OrMe2Qf6wMxmVZVgnMzEeDVqW9ic8u7fL0a7tw96Rdp5E2zQAKnIef_6ShE3gF5a7doFKDxP5ZE-_vJ6W1WNdrNwS6TwLTrFFYooKeEBSY91XEqsSiz6UoODIYEwOd-sJKGTK0sH/s1600/channel_101.png" group-title="Sports" event-duration="4",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=76&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=76&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
@@ -1384,7 +1390,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 #EXTINF:-1 tvg-name="HITS NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2lKTmoh5pfEX4_SgFD7Ppga_rG9KknIU4QgEnuHgQkw&s" group-title="Blockbuster" event-duration="4",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=51&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=51&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
@@ -1539,7 +1545,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-name="tvN MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjXv2aywNrj31iRkKmEcC_w0GUI5sa1mZD593UwPtPfrMbzPZMDFTJAmRkriQ-4rhSlKI97omkQ2xaj-viz_9IRi4D3GOb6jQbUE1IFgbtB6GwS7RdZrI31yGPD1Np5cYNQEwoULcRgaYWeOzKE2ZUyKqZ-X0SwY3RjRrImF8h-MRD3E8oV543BextqHqCW" group-title="Blockbuster" server="tvN MOVIES SD" event-duration="4",tvN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=37&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=37&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
@@ -1586,7 +1592,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIO2Drvq3ver79VHJBW39ztQe-qQ-tW2G6t7I5KYLMaQ&s=10" group-title="Knowledge" server="SUB INDO" event-duration="4",Outdoor Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=68&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=68&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
@@ -1639,7 +1645,7 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/in
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #EXTINF:-1 tvg-name="NHK WORLD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="Knowledge" event-duration="4",NHK WORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=58&key=keyion2026
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=58&key=bagihasillah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
